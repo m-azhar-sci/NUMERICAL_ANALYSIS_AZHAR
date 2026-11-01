@@ -25,6 +25,14 @@ Written for my coursework
    python Bisection1.0.py
    ```
 
+### TO DOS: 
+1. sin cos etc so math.eval....
+2. write the description of each function
+3. make a short version
+4. better this version
+5. border can be float
+6. etc
+
 ## Author
 
 MUHAMMAD AZHAR, BSc Civil Engineering, UET Taxila
